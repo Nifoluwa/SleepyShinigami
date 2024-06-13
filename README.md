@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SleepyShinigami
+- 👋 Hi, I’m @Nifo
 - 👀 I’m interested in, Economics, Data science, Machine learning and backend web development with Django
 - 🌱 I’m currently learning more about all the things listed above
 - 💞️ I’m looking to collaborate on fun and interesting projects
