@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about all the things listed above
 - 💞️ I’m looking to collaborate on fun and interesting projects
 - 📫 How to reach me -- kikiopeawotile@gmail.com
-- ⚡ Fun fact: I really like Anime, Ha Ha.
+- ⚡ Fun fact:I bring solutions to problems, regardless of their nature.
 
 <!---
 SleepyShinigami/SleepyShinigami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
